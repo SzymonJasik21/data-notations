@@ -1,0 +1,14 @@
+{
+  "passengerName": "Jahny Steel",
+  "trainNumber": "IC 6767",
+  "departureStation": "Warszawa Centralna",
+  "arrivalStation": "Kraków Główny",
+  "departureTime": "2025-10-16T08:30:00",
+  "seatInfo": {
+    "coach": "2",
+    "seat": "67A"
+  },
+  "isFirstClass": false,
+  "pricePLN": 50.37,
+  "extras": ["WiFi"]
+}
