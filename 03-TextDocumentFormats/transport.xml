@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transportCollection>
+  <transport type="car" fuel="petrol">
+    <brand>Toyota</brand>
+    <model>Corolla</model>
+    <color>Blue</color>
+    <capacity>5</capacity>
+  </transport>
+
+  <transport type="bicycle" gear="21-speed">
+    <brand>Giant</brand>
+    <model>Escape 3</model>
+    <color>Black</color>
+    <capacity>1</capacity>
+  </transport>
+
+  <transport type="train" service="regional">
+    <operator>PKP Intercity</operator>
+    <route>Kraków to Warsaw</route>
+    <color>Silver</color>
+    <capacity>200</capacity>
+  
